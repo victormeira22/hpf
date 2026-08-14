@@ -1,4 +1,3 @@
-//Victor e Vinicios
 
 package model;
 
