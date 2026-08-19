@@ -1,5 +1,3 @@
-//Lucas e João Gabriel
-
 import java.util.Scanner;
 
 import model.Conta;
