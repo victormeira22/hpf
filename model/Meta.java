@@ -7,6 +7,11 @@ public class Meta {
     private double valorAlvo;
     private double valorPoupado;
     
+    //construtor vazio
+    public Meta (){
+        
+    }
+    
     //construtor
     public Meta (double valorPoupado, String objetivo, double valorAlvo){
 
