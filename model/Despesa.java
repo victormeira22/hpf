@@ -8,7 +8,7 @@ public class Despesa {
     private String status;
     
      //construtor vazio
-    public Meta (){
+    public Despesa (){
         
     }
 
