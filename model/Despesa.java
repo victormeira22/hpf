@@ -7,7 +7,11 @@ public class Despesa {
     private double valor;
     private String status;
     
-   
+     //construtor vazio
+    public Meta (){
+        
+    }
+
     //construtor
     public Despesa (String descricao, double valor, String status) {
 
