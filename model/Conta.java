@@ -9,7 +9,11 @@ public class Conta {
     private double saldo;
     private double limite;
     
-   
+    //construtor vazio
+    public Conta (){
+        
+    }
+
     //construtor
     public Conta (int numero, String cliente, double saldo, double limite){
 
