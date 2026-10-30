@@ -34,7 +34,7 @@ public class Despesa {
         return this.valor;
     }
      
-    public void setvalorAlvo(double valor) {
+    public void setValor(double valor) {
         this.valor = valor;
     }
      
