@@ -7,6 +7,11 @@ public class Receita {
     private String origem;
     private double valor;
     
+    //construtor vazio
+    public Receita (){
+        
+    }
+
     //construtor
     public Receita (String origem, double valor){
 
