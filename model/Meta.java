@@ -30,19 +30,19 @@ public class Meta {
         this.objetivo = objetivo;
     }
      
-    public double getvalorAlvo(){
+    public double getValorAlvo(){
         return this.valorAlvo;
     }
      
-    public void setvalorAlvo(double valoralvo) {
+    public void setValorAlvo(double valoralvo) {
         this.valorAlvo = valoralvo;
     }
      
-    public double getvalorPoupado(){
+    public double getValorPoupado(){
         return this.valorPoupado;
     }
     
-    public void setvalorPoupado(double valorpoupado) {
+    public void setValorPoupado(double valorpoupado) {
         this.valorPoupado = valorpoupado;
     }
     
